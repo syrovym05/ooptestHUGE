@@ -1,0 +1,10 @@
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\bin\Debug\HUGEtestOOP.exe.config
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\bin\Debug\HUGEtestOOP.exe
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\bin\Debug\HUGEtestOOP.pdb
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.csprojAssemblyReference.cache
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.Form1.resources
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.exe
+C:\Users\syrovym.05\source\repos\HUGEtestOOP\HUGEtestOOP\obj\Debug\HUGEtestOOP.pdb
